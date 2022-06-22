@@ -1,0 +1,20 @@
+#contenedorProducto{
+    height: fit-content;
+    background-color: blueviolet;
+}
+
+.cardProducto{
+    background-color:chocolate;
+    
+}
+.producto__cont{
+    border:2px;
+}
+
+.title{
+    text-align: center;
+}
+
+.producto__precio{
+    color: darkblue;
+}
